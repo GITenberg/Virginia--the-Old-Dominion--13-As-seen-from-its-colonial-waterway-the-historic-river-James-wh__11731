@@ -1,0 +1,30 @@
+_repo: Virginia--the-Old-Dominion--13-As-seen-from-its-colonial-waterway-the-historic-river-James-wh__11731
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hutchins, Frank W.
+    gutenberg_agent_id: '4573'
+    url: http://www.gutenberg.org/2009/agents/4573
+  - agent_name: Hutchins, Cortelle
+    gutenberg_agent_id: '4574'
+    url: http://www.gutenberg.org/2009/agents/4574
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Houseboats'
+- !lcc 'F206'
+- !lcsh 'Historic buildings -- Virginia'
+- !lcsh 'James River (Va.)'
+- GITenberg
+title: "Virginia: the Old Dominion\r\nAs seen from its colonial waterway, the historic\
+  \ river James, whose every succeeding turn reveals country replete with monuments\
+  \ and scenes recalling the march of history and its figures from the days of Captain\
+  \ John Smith to the present time"
+url: http://www.gutenberg.org/ebooks/11731
